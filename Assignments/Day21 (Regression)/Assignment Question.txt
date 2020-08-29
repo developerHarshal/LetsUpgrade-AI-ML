@@ -1,0 +1,21 @@
+Logistic Regression
+1) Bank Loan
+- Drop ID And Zip Code Column
+- Apply LogistiC Regression1
+
+2) Atrrition Analysis
+- Apply Logistic Regression
+
+Linear Regression
+3) Housing Price
+- Find R^2
+for 5 models :-
+
+	Simple Linear Regression
+	1. Price and Sq_living
+	2. price and Bedrooms
+	3. price and bathrooms
+	4. price amd floors
+	
+	Multiple Linear Regression
+	1.Price and All other 
